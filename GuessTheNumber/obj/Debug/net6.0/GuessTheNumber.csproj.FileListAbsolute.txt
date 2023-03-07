@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\refint\GuessTheNumber.dll
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PROJECT-DEV\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
